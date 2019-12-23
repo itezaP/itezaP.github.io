@@ -1,6 +1,6 @@
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-	'/itezap.github.io',
+	'/itezap.github.io/pwa-tutorial',
 ]
 
 self.addEventListener('install', function(event) {
